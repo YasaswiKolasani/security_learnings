@@ -15,8 +15,3 @@ https://www.onworks.net/
 4) sniffing (middle person stealing packets)
 
 
-
-Hacking workshop:
-1. Premium hacking group access
-2. 50 hacking tools list
-3. Virtual laptop with in browser itself
